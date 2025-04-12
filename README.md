@@ -1,43 +1,94 @@
-## 🚀 Welcome to My GitHub Profile!
-Hi there! I'm **[Mayur Zope]**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+<h1 align="center">Hi 👋, I'm Mayur Zope</h1>
+<h3 align="center">💻 Passionate Computer Engineering Student | 🤖 AI & ML Enthusiast | 🌐 Web Developer | ⚙️ C++ DSA Expert</h3>
 
----
-
-### 💻 Programming & Core Concepts
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=400&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff+🛠️;Let's+connect+and+grow+together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coder06082005&label=Profile%20Views&color=0e75b6&style=flat" alt="mayur" />
+  <img src="https://img.shields.io/github/followers/coder06082005?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/LeetCode-@coder06082005-orange" alt="LeetCode" />
 </p>
 
 ---
 
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+## 👨‍🎓 Who am I?
+
+- 🎓 2nd-year B.E. **Computer Engineering** student at **NMIET**.
+- 👨‍💻 Focused on **DSA in C++**, **Web Development**, and **AI/ML**.
+- 🚀 Building **CodeFlow AI** – a full-stack AI-integrated platform.
+- 💼 Actively looking for **internships** and **collaboration** opportunities.
+- 💡 Always upskilling & pushing boundaries.
+- 📫 Email me at **your-email@example.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages:
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🌐 Web Dev:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+
+### 🧠 AI/ML & DSA:
+- 📚 DSA in C++
+- 🤖 Basics of Machine Learning
+- 💡 Working on smart AI-based projects
+
+### ⚙️ Tools & Platforms:
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Convex](https://img.shields.io/badge/-Convex-blue?style=flat-square&logo=convex)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=coder06082005&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder06082005&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder06082005&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🧠 Large Language Models (LLMs)
+## 🎯 LeetCode & Coding Profiles
+
+- 🟧 [LeetCode](https://leetcode.com/your-profile)
+- 🟪 [CodeChef](https://www.codechef.com/users/your-profile)
+- 🟩 [HackerRank](https://www.hackerrank.com/your-profile)
+
+---
+
+## 🌐 Let's Connect!
+
 <p align="left">
-  <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/BERT-FF425F?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/coder06082005" target="_blank"><img src="https://img.icons8.com/ios-glyphs/50/github.png" alt="GitHub" /></a>
+  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.icons8.com/color/48/new-post.png" alt="Gmail" /></a>
 </p>
-# CodeFlowAI
+
+---
+
+## 🎉 Fun Facts
+
+- 🧠 I solve DSA problems to relax (seriously 😅)
+- 🕹️ I enjoy building random side projects at 2AM
+- ☕ Fuel: 60% curiosity, 40% coffee
+
+---
+
+⭐️ *Thanks for stopping by! Don’t forget to check out my repositories and leave a ⭐ if something interests you!* 😊
